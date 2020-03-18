@@ -2,3 +2,4 @@ Overleaf: https://www.overleaf.com/1644391192tsqzxkrwdqzt
 Onderzoek van onderneming: - history: https://www.hermanmiller.com/en_lac/about/timeline/
 Jaarverslagen: https://www.hermanmiller.com/investors/annual-reports/
 stock overzicht: https://ycharts.com/companies/MLHR
+R&D expense: https://ycharts.com/companies/MLHR/r_and_d_expense
