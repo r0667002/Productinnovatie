@@ -4,3 +4,4 @@ Jaarverslagen: https://www.hermanmiller.com/investors/annual-reports/
 stock overzicht: https://ycharts.com/companies/MLHR
 R&D expense: https://ycharts.com/companies/MLHR/r_and_d_expense
 Patenten: https://www.hermanmiller.com/legal/patents/
+Competitors: https://craft.co/herman-miller/competitors
