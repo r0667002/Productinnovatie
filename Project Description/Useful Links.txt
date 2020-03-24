@@ -5,3 +5,6 @@ Onderzoek van onderneming: - history: https://www.hermanmiller.com/en_lac/about/
 SWOT analyse: https://www.mindtools.com/pages/article/newTMC_05.htm
 Jaarverslagen: https://www.hermanmiller.com/investors/annual-reports/
 R&D expenses: https://ycharts.com/companies/MLHR/r_and_d_expense
+Competitors: https://craft.co/herman-miller/competitors
+stock overzicht: https://ycharts.com/companies/MLHR
+Patenten: https://www.hermanmiller.com/legal/patents/
