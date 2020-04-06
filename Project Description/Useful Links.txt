@@ -15,8 +15,8 @@ Jaarverslagen: https://www.hermanmiller.com/investors/annual-reports/
 R&D expenses: https://ycharts.com/companies/MLHR/r_and_d_expense
 Stock overzicht: https://ycharts.com/companies/MLHR
 Patenten: https://www.hermanmiller.com/legal/patents/
-
-
+LT Debt Equity ratio: https://www.macrotrends.net/stocks/charts/MLHR/herman-miller/debt-equity-ratio
+https://www.sec.gov/Archives/edgar/data/66382/000092604406000148/hmi10ka_052805.htm
 
 Usefull info:
 2018 kwartaal 4: nam HAY en Maars Living Walls over, Cash drop 203.9M naar 101.7M
